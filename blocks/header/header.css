@@ -204,6 +204,7 @@ header nav[aria-expanded='true'] .nav-tools li {
     background-color: unset;
     width: unset;
     margin: 0;
+    color: white;
   }
 
   header nav[aria-expanded='true'] .nav-sections ol {
