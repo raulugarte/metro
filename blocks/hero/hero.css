@@ -24,6 +24,9 @@ main .hero .hero-body {
         background-color: #e5effe80;
 }
 
+main .hero .hero-body > h1{
+   color:#002d72;
+}
 
 main .hero picture {
     position: absolute;
