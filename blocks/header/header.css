@@ -165,6 +165,7 @@ header nav[aria-expanded='true'] .nav-tools li {
     justify-content: space-between;
     height: var(--nav-height);
     padding: 16px;
+    background-color: #002d72;
   }
 
   header nav .nav-sections > ul > li.nav-drop {
